@@ -1,0 +1,6 @@
+colored
+base58
+solana
+solders
+requests
+pycryptodome
