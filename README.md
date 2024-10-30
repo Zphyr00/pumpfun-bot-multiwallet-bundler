@@ -4,13 +4,11 @@
 
 <p>
 
-[![Telegram: seero](https://img.shields.io/badge/Telegram-seero-blueviolet)](https://t.me/seer0o)
-
 </a>
 
 </p>
 
-  > Telegram: @seer0o | Pump.fun bot & bundler is the ultimate all-in-one tool you need to dominate in the trenches of Pump.fun. Our robust <b>*Wallet Set*</b> feature allows users to utilize multiple wallet configurations optimized for specific functions like the Volume Bot, Bump Bot,
+  > Pump.fun bot & bundler is the ultimate all-in-one tool you need to dominate in the trenches of Pump.fun. Our robust <b>*Wallet Set*</b> feature allows users to utilize multiple wallet configurations optimized for specific functions like the Volume Bot, Bump Bot,
 
 
 
